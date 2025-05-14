@@ -1,0 +1,13 @@
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.csproj.AssemblyReference.cache
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.AssemblyInfoInputs.cache
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.AssemblyInfo.cs
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.csproj.CoreCompileInputs.cache
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.sourcelink.json
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\bin\Debug\net8.0\GitHubPortfolio.Service.deps.json
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\bin\Debug\net8.0\GitHubPortfolio.Service.dll
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\bin\Debug\net8.0\GitHubPortfolio.Service.pdb
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.dll
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\refint\GitHubPortfolio.Service.dll
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\GitHubPortfolio.Service.pdb
+C:\מירי\תכנות\שנה ב\פרקטיקוד\GitHubPortfolio\GitHubPortfolio.Service\obj\Debug\net8.0\ref\GitHubPortfolio.Service.dll
