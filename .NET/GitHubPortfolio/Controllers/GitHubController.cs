@@ -1,39 +1,4 @@
-﻿//using GitHubPortfolio.Service;
-//using Microsoft.AspNetCore.Http;
-//using Microsoft.AspNetCore.Mvc;
-
-//namespace GitHubPortfolio.API.Controllers
-//{
-//    [ApiController]
-//    [Route("api/[controller]")]
-//    public class GitHubController : ControllerBase
-//    {
-//        private readonly GitHubService _gitHubService;
-//        private readonly ICacheService _cache;
-
-//        public GitHubController(GitHubService service, ICacheService cache)
-//        {
-//            _gitHubService = service;
-//            _cache = cache;
-//        }
-
-//        [HttpGet("portfolio")]
-//        public async Task<IActionResult> GetPortfolio()
-//        {
-//            var cacheKey = "portfolioData";
-//            var result = await _cache.GetOrAddAsync(cacheKey, () => _gitHubService.GetMyRepositoriesAsync(), TimeSpan.FromMinutes(5));
-//            return Ok(result);
-//        }
-
-//        [HttpGet("search")]
-//        public async Task<IActionResult> SearchRepos([FromQuery] string? name, [FromQuery] string? language, [FromQuery] string? user)
-//        {
-//            var result = await _gitHubService.SearchRepositories(name, language, user);
-//            return Ok(result);
-//        }
-//    }
-
-//}
+﻿
 using GitHubPortfolio.Service;
 using GitHubPortfolio.Service.Models;
 using Microsoft.AspNetCore.Mvc;

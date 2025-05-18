@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GGJ+Z9lOf3A=",
+  "dgSpecHash": "nFvhW73+8m8=",
   "success": true,
-  "projectFilePath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio\\GitHubPortfolio.API.csproj",
+  "projectFilePath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio\\GitHubPortfolio.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0-preview.4.25258.110\\microsoft.extensions.caching.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512",

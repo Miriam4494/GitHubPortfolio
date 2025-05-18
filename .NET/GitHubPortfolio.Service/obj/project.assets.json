@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
+      "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
       "projectName": "GitHubPortfolio.Service",
-      "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
+      "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\obj\\",
+      "outputPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

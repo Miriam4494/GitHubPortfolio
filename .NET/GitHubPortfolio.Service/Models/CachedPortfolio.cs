@@ -1,15 +1,5 @@
-﻿//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
+﻿
 
-//namespace GitHubPortfolio.Service.Models
-//{
-//    internal class CachedPortfolio
-//    {
-//    }
-//}
 using Octokit;
 using System;
 using System.Collections.Generic;

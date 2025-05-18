@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio\\GitHubPortfolio.API.csproj": {}
+    "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio\\GitHubPortfolio.API.csproj": {}
   },
   "projects": {
-    "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj": {
+    "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
+        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
         "projectName": "GitHubPortfolio.Service",
-        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
+        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\obj\\",
+        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio\\GitHubPortfolio.API.csproj": {
+    "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio\\GitHubPortfolio.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio\\GitHubPortfolio.API.csproj",
+        "projectUniqueName": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio\\GitHubPortfolio.API.csproj",
         "projectName": "GitHubPortfolio.API",
-        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio\\GitHubPortfolio.API.csproj",
+        "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio\\GitHubPortfolio.API.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio\\obj\\",
+        "outputPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj": {
-                "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj"
+              "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj": {
+                "projectPath": "C:\\מירי\\תכנות\\שנה ב\\פרקטיקוד\\GitHubPortfolio\\.NET\\GitHubPortfolio.Service\\GitHubPortfolio.Service.csproj"
               }
             }
           }

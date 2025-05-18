@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHubPortfolio.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a537bd4d83adf1c6447631fd686b3ec8399ff828")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1306397228766706d82b8c6109244d1134357e57")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHubPortfolio.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHubPortfolio.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
